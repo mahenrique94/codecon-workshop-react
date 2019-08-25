@@ -1,5 +1,5 @@
 import firebase from 'firebase/app'
-import firebaseConfig from '../firebase.json'
+import firebaseConfig from '../credentials.json'
 
 import 'firebase/auth'
 import 'firebase/database'
